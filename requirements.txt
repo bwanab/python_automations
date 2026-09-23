@@ -1,0 +1,7 @@
+audio_separator==0.47.0
+beautifulsoup4==4.15.0
+Pillow==12.3.0
+reathon==0.0.9
+Requests==2.34.2
+soundfile==0.14.0
+graphviz==0.21
